@@ -1,0 +1,4 @@
+{
+  "name": "partykit-yjs-valtio-party",
+  "main": "party/index.ts"
+}

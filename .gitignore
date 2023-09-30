@@ -1,3 +1,9 @@
+# PartyKit
+.partykit
+
+# VS Code
+.vscode
+
 # Logs
 logs
 *.log
